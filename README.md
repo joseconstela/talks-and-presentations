@@ -1,11 +1,11 @@
 # My talks and presentations
 
 
-- Virtual worlds. Uses and technologies. [ESEI, University of Vigo](http://www.esei.uvigo.es/) - 2009
-- Web applications development, basic introduction for junior students. [CIF A Carballeira](http://www.cifpcarballeira.es/) - 2011
-- Web applications development, technologies and browsers, basic introduction for university students. [ESEI, University of Vigo](http://www.esei.uvigo.es/) - 20011
+- [Virtual worlds. Uses and technologies.](https://github.com/joseconstela/talks-and-presentations/raw/master/1-Virtual_Worlds_-_Uses_and_possibilities/160409-usos-y-posibilidades-secondlife-uvigo-esei-joseramoncidconstela.pdf) for [ESEI, University of Vigo](http://www.esei.uvigo.es/) - 2009
+- [Web applications development, basic introduction for junior students](https://github.com/joseconstela/talks-and-presentations/raw/master/2-Web_Applications_development_-_Introduction_for_development_students/100311-web-applications-development-intro-joseramoncidconstela.pdf) for [CIF A Carballeira](http://www.cifpcarballeira.es/) - 2011
+- [Web applications development, technologies and browsers, basic introduction for university students](https://github.com/joseconstela/talks-and-presentations/raw/master/3-Web_Applications_development_-_Tech_and_browsers/050611-web-applications-development-uvigo-esei-presentation.pdf) for [ESEI, University of Vigo](http://www.esei.uvigo.es/) - 20011
 
 Generic presentations
 =====================
 
-- MongoDB basic introduction - made for coworkers - 2013
+- [MongoDB basic introduction](https://github.com/joseconstela/talks-and-presentations/raw/master/Generic/MongoDB_introduction.pdf) - made for coworkers - 2013
