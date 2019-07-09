@@ -6,6 +6,7 @@
 - [Web applications development, technologies and browsers, basic introduction for university students](https://github.com/joseconstela/talks-and-presentations/raw/master/3-Web_Applications_development_-_Tech_and_browsers/050611-web-applications-development-uvigo-esei-presentation.pdf) for [ESEI, University of Vigo](http://www.esei.uvigo.es/) - 2011
 - [Introduction to MeteorJS](https://github.com/JavaScriptGalicia/JSGalicia-170718-meteorjs) for [JavaScript Galicia meetup](https://www.meetup.com/es-ES/JavaScriptGalicia) - 2017
 - [MongoDB](https://www.youtube.com/watch?v=qf-XTg2RYmA) for [JavaScript Ourense Meetup](https://www.meetup.com/es-ES/jsourense/events/256998888/) - 2018
+- [190627 # MQTT: comunicando tus dispositivos IoT (+ NodeJS)](https://www.youtube.com/watch?v=dlpPiYQvnGo) for [JavaScript Ourense Meetup](https://www.meetup.com/es-ES/jsourense/events/262390313/) - 2019
 
 Generic presentations
 =====================
